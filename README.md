@@ -1,7 +1,7 @@
 # Nerdy icebreaker party games
 
 ## Introduction
-These games icebreakers for parties of any size. They are especially well suited for *nerds*, in particular research groups. They were tested and approved by [NERDS](https://nerds.itu.dk).
+These games are icebreakers for parties of any size. They are especially well suited for *nerds*, in particular research groups. They were tested and approved by [NERDS](https://nerds.itu.dk).
 
 ## Nerdgame (5 min)
 [📁 nerdgame](/nerdgame/)
