@@ -10,7 +10,9 @@ A Korean survival/elimination game to find the biggest nerd. Everyone starts sta
 
 **Who wins?** Last nerd standing. If the "last nerd" is multiple people, choose a new question.
 
-## Bingo
+## Bingo (20 min, worst case O(N<sup>2</sup>) min)
+
+[📁 bingo](/bingo/)
 
 Every person gets 1 sheet with 9 questions. Walk around in the room and find 1 other person whose name you can write down as answer. Once you have answered all the 9 questions, you shout "Bingo". It is NOT allowed to: use your own name; use the same name twice or more.
 
